@@ -1,3 +1,4 @@
+```js
 {
     "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
@@ -32,3 +33,4 @@
     "explorer.confirmDelete": false,
     "extensions.ignoreRecommendations": true
 }
+```
